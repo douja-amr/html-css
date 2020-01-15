@@ -10,7 +10,7 @@ body
 section h1, footer h1, nav a
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: normal;
+  
 }
 
 /********************* Header *********************/
@@ -55,6 +55,7 @@ nav ul
 {
     list-style-type: none;
     display: flex;
+   
 }
 
 nav li
